@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Speedy</string>
+    <string name="calc_button">Calculate</string>
+    <string name="calc_button_hint">#</string>
+    <string name="spinner_default">Transportation</string>
+    <string name="main_text_1">How long will it take to travel</string>
+    <string name="miles">Miles</string>
+    <string name="via">via</string>
+    <string name="q_mark">\?</string>
+    <string name="by">by</string>
+    <string name="transport_1" />
+    <string name="transport2" />
+    <string name="transport3" />
+    <string name="transport4" />
+    <string name="transport5" />
+    <string name="min_by">minutes by</string>
+    <string name="travel">Your travel time should be about</string>
+    <string name="or">or</string>
+    <string-array name="transport_array">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>Segway i2 SE</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+</resources>
